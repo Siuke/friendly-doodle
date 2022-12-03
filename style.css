@@ -1,0 +1,8 @@
+footer {
+    background-color:bisque;
+    min-height: 200px;
+    text-align: center;
+}
+.bg-warning{
+    background-color: purple !important;
+}
